@@ -2,7 +2,7 @@
 - 👀 I’m interested in Nerdy Stuff
 - 🌱 I’m currently learning Web DevOps, C, Python, Cobol
 - 💞️ I’m looking to collaborate on startups
-- 📫 How to reach me ronak.cs50@gmail.com
+- 📫 How to reach me ronakpatel.cs50@gmail.com
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: A Love Super Computers and Super Cars
 
