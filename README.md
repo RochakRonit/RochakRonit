@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ronak-Patel-Surati
-- 👀 I’m interested in 
+- 👀 I’m interested in Low Level Hardware, Networking and Mathematical Computing...
 - 🌱 I’m currently learning Web DevOps, C, Python, Cobol
 - 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me ronakpatel.cs50@gmail.com
